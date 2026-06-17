@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+<!-- الطبقة الخلفية الداكنة الصامتة لمنع وميض الشاشة الأبيض -->
+<background android:drawable="@drawable/ic_launcher_background" />
+<!-- الطبقة الأمامية المتجهة التي تطابق أيقونة الأنيميشن الترحيبي -->
+<foreground android:drawable="@drawable/ic_launcher_foreground" />
+</adaptive-icon>
